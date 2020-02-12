@@ -1,12 +1,11 @@
-# Visual-and-EDA-of-Corona-Virus
-
+<h1 align="center">Visual-and-EDA-of-Corona-Virus</h1>
 <a href="#">
   <div align="center">
     <img src="images/coronavirus.jpg" width='700'/>
   </div>
 </a>
 
-##This project is a detailed visual and exploratory data analysis of Corona Virus.
+This project is a detailed visual and exploratory data analysis of Corona Virus.
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=appveyor)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
