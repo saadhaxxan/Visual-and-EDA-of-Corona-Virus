@@ -9,7 +9,7 @@ This project is a detailed visual and exploratory data analysis of Corona Virus.
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=appveyor)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/saadhaxxanVisual-and-EDA-of-Corona-Virus/.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/saadhaxxan/Visual-and-EDA-of-Corona-Virus/fork)
+[![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Visual-and-EDA-of-Corona-Virus.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/saadhaxxan/Visual-and-EDA-of-Corona-Virus/fork)
 [![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Visual-and-EDA-of-Corona-Virus.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/saadhaxxan/Visual-and-EDA-of-Corona-Virus/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
